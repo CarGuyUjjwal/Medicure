@@ -1,1 +1,1 @@
-# Medicure
+# Medicine
